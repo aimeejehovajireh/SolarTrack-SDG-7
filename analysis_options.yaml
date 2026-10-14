@@ -6,4 +6,4 @@ analyzer:
     - android/**
     - web/**
     - windows/**
-    .
+    
