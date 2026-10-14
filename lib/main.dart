@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'pages/solar_home_page.dart'; ..
+import 'pages/solar_home_page.dart'; 
 
 void main() {
   runApp(const SolarTrackApp());
